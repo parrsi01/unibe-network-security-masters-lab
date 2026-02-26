@@ -1,4 +1,4 @@
-# Network Security Course Master Guide
+# Network Security Course Guide
 
 This guide connects theory modules, labs, incidents, and portfolio artifacts into one progression.
 

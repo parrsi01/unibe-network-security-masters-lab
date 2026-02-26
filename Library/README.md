@@ -4,7 +4,7 @@ Long-form reference notes for the Network Security Foundation Lab.
 
 ## Recommended Order
 
-1. `00_network_security_course_master_guide.md`
+1. `00_network_security_course_guide.md`
 2. `01_network_security_foundations.md`
 3. `02_protocol_analysis_and_abuse.md`
 4. `03_tls_and_crypto_operational_security.md`
