@@ -1,0 +1,6 @@
+{"timestamp":"2026-02-26T09:00:00.123456+0000","event_type":"flow","src_ip":"10.10.1.10","dest_ip":"1.1.1.1","proto":"TCP","app_proto":"tls","flow":{"pkts_toserver":12,"pkts_toclient":14}}
+{"timestamp":"2026-02-26T09:00:02.123456+0000","event_type":"dns","src_ip":"10.10.1.10","dest_ip":"10.10.0.53","dns":{"type":"query","rrname":"updates.example.org","rrtype":"A"}}
+{"timestamp":"2026-02-26T09:00:05.123456+0000","event_type":"alert","src_ip":"203.0.113.44","dest_ip":"10.10.1.20","proto":"TCP","alert":{"signature":"ET SCAN Nmap Scripting Engine User-Agent Detected","severity":2,"category":"Attempted Information Leak"}}
+{"timestamp":"2026-02-26T09:00:07.123456+0000","event_type":"alert","src_ip":"198.51.100.9","dest_ip":"10.10.1.20","proto":"TCP","alert":{"signature":"ET EXPLOIT Possible CVE Probe Pattern","severity":1,"category":"Attempted Administrator Privilege Gain"}}
+{"timestamp":"2026-02-26T09:00:10.123456+0000","event_type":"http","src_ip":"10.10.1.20","dest_ip":"198.51.100.25","http":{"hostname":"repo.example.edu","url":"/packages/index.json","http_user_agent":"apt/2.7"}}
+

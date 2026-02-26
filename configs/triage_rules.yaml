@@ -1,0 +1,15 @@
+triage_priority:
+  alert:
+    severity_1: critical
+    severity_2: high
+    severity_3: medium
+    severity_4: low
+  flow:
+    default: informational
+  dns:
+    default: informational
+analyst_notes:
+  - Correlate src/dest pairs before escalating.
+  - Validate whether alert traffic is internal lab simulation or external scan.
+  - Document packet capture evidence before changing firewall policy.
+

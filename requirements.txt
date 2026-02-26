@@ -1,0 +1,3 @@
+# Intentionally minimal: no mandatory third-party Python packages required
+# for validation, scripts, and unit tests in the base repository.
+

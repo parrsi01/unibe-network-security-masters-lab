@@ -1,0 +1,22 @@
+name: Lint
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  syntax-checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Shell syntax
+        run: |
+          bash -n validate_repo.sh
+          find scripts labs -type f -name '*.sh' -exec bash -n {} \;
+      - name: Python syntax
+        run: |
+          python -m py_compile scripts/analyze_suricata_eve_sample.py tests/test_suricata_triage.py
+
