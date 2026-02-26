@@ -1,4 +1,4 @@
-# Master's Course Master Guide
+# Network Security Course Master Guide
 
 This guide connects theory modules, labs, incidents, and portfolio artifacts into one progression.
 
@@ -9,4 +9,3 @@ This guide connects theory modules, labs, incidents, and portfolio artifacts int
 3. Investigate a ticket (`incidents/`)
 4. Summarize findings (`reports/`)
 5. Map skills to role outcomes (`docs/PORTFOLIO_SKILL_MAPPING.md`)
-

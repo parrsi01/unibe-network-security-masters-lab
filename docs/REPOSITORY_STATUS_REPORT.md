@@ -5,7 +5,7 @@ Date: 2026-02-26
 
 ## Scope
 
-UNIBE-style master's-level network security curriculum repository with theory, labs, incidents, offline datasets, validation tooling, and portfolio documentation.
+Network security foundation curriculum repository with theory, labs, incidents, offline datasets, validation tooling, and portfolio documentation.
 
 ## Implemented Areas
 
@@ -20,4 +20,3 @@ UNIBE-style master's-level network security curriculum repository with theory, l
 
 - Repository is stdlib-first for validation and sample analysis.
 - Some lab commands are conceptual/offline-focused and should be run in local VMs before extending to live environments.
-

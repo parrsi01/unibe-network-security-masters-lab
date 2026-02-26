@@ -1,4 +1,4 @@
-# UNIBE Network Security Master's Lab
+# Network Security Foundation Lab
 
 ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)
 [![CI](https://github.com/parrsi01/unibe-network-security-masters-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/parrsi01/unibe-network-security-masters-lab/actions/workflows/ci.yml)
@@ -7,7 +7,7 @@
 Author: Simon Parris  
 Date: 2026-02-26
 
-Professional, research-oriented network security repository designed to reflect a UNIBE master's-level standard: technical rigor, reproducibility, incident-driven practice, and portfolio-quality documentation.
+Professional, structured network security training repository focused on junior-to-intermediate operational competence, reproducibility, and portfolio-quality documentation.
 
 ## Start Here
 
@@ -27,12 +27,12 @@ This repository combines:
 - network forensics and packet investigation practices
 - zero trust / segmentation policy design
 - incident ticket drills and evidence-first response
-- research methods for experiment design and reproducibility
+- structured analysis methods for investigations and tuning decisions
 
-## Academic + Industry Design Model
+## Design Model
 
 - `docs/` for structured theory and course manuals
-- `Library/` for long-form master's-level reference notes
+- `Library/` for long-form reference notes
 - `library/` for quick operational checklists and cheatsheets
 - `labs/` for reproducible hands-on exercises
 - `incidents/` for ticket-style triage and reporting drills
@@ -60,7 +60,7 @@ python scripts/analyze_suricata_eve_sample.py datasets/suricata/eve_sample.jsonl
 4. Detection engineering and alert tuning (`docs/detection_engineering/`)
 5. Network forensics (`docs/network_forensics/`)
 6. Zero trust / segmentation (`docs/zero_trust/`)
-7. Research methods and experimental rigor (`docs/research_methods/`)
+7. Analysis methods and experiment discipline (`docs/research_methods/`)
 
 ## Standards
 
@@ -68,4 +68,3 @@ python scripts/analyze_suricata_eve_sample.py datasets/suricata/eve_sample.jsonl
 - Reproducible command sequences and validation steps
 - Offline-readable notes (mobile/GitHub friendly)
 - Version-controlled artifacts and portfolio-ready summaries
-

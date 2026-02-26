@@ -5,7 +5,7 @@ Date: 2026-02-26
 
 ## Purpose
 
-This repository is a master's-level network security lab and study framework designed for rigorous self-study, interview preparation, and portfolio evidence generation.
+This repository is a structured network security lab and study framework designed for self-study, interview preparation, and portfolio evidence generation.
 
 ## Operating Model
 
@@ -38,4 +38,3 @@ This repository is a master's-level network security lab and study framework des
 - Labs are designed for local VMs and controlled datasets.
 - Do not test detection or scanning workflows against unauthorized systems.
 - Prefer offline sample data where provided.
-
