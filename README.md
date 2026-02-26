@@ -1,8 +1,8 @@
 # Network Security Foundation Lab
 
 ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)
-[![CI](https://github.com/parrsi01/unibe-network-security-masters-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/parrsi01/unibe-network-security-masters-lab/actions/workflows/ci.yml)
-[![Lint](https://github.com/parrsi01/unibe-network-security-masters-lab/actions/workflows/lint.yml/badge.svg)](https://github.com/parrsi01/unibe-network-security-masters-lab/actions/workflows/lint.yml)
+[![CI](https://github.com/parrsi01/network-security-foundation-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/parrsi01/network-security-foundation-lab/actions/workflows/ci.yml)
+[![Lint](https://github.com/parrsi01/network-security-foundation-lab/actions/workflows/lint.yml/badge.svg)](https://github.com/parrsi01/network-security-foundation-lab/actions/workflows/lint.yml)
 
 Author: Simon Parris  
 Date: 2026-02-26
